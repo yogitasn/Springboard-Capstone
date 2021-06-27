@@ -86,6 +86,10 @@ Refer to the Readme under the Datawarehouse folder for detailed steps and screen
 
 Refer to the Readme under the orchestration folder for detailed steps and screenshots
 
+# Monitoring Dashboard
+
+Refer to the Readme under the Monitoring Dashboard folder for detailed steps and screenshots
+
 # References
 [Parking Management](https://www.hindawi.com/journals/jat/2020/5624586/#abstract)
 
@@ -96,7 +100,7 @@ Refer to the Readme under the orchestration folder for detailed steps and screen
 
 [Problem Definition](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
-[Expected Results](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[Cloud Architecture](https://github.com/yogitasn/Springboard-Capstone/wiki/ETL-Cloud-Architecture)
 
 [Data Model](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
@@ -106,6 +110,6 @@ Refer to the Readme under the orchestration folder for detailed steps and screen
 
 [Transform](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
-[Testing](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[Testing](https://github.com/yogitasn/Springboard-Capstone/wiki/Testing)
 
 [Troubleshooting](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
