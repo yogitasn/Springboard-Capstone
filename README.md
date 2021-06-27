@@ -92,9 +92,8 @@ Refer to the Readme under the orchestration folder for detailed steps and screen
 
 # Project Details
 
-[[Details](https://github.com/yogitasn/seattlepaidparking/wiki/Orchestration-Steps-using-Data-Factory)] 
-Steps to load the delta data using Data Factory
+[Slide Deck](https://docs.google.com/presentation/d/1ggouvIXR4mF6B4MShIGjku2M1pdigyzk/edit)
 
-[[Details](https://github.com/yogitasn/seattlepaidparking/wiki/Orchestration-Steps-using-Data-Factory)] 
-Steps to load the delta data using Data Factory
+[Problem Definition](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
 
