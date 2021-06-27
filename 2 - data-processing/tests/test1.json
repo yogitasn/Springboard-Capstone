@@ -1,0 +1,44 @@
+{
+    "sources":{
+       "driverSource":{
+           "filetype":"CSV",
+           "hasHeader":"N",
+           "filePath":"C:\\Test\\Paid_Parking.csv",
+           "fields": [
+               {
+                 "metadata": {},
+                 "name": "OccupancyDateTime",
+                 "type": "StringType()"
+               },
+               {
+                 "metadata": {},
+                 "name": "Occupied_Spots",
+                 "type": "IntegerType()"
+               }
+   
+             ]
+           }
+         },
+         "targetDataframeDetails":{
+           "dataframeName": "SeattleOccupancy",
+           "dataframeBusiness":"Details about the occupancy",
+           "dataframeDescription":"Account Transaction Summary",
+           "dataframePartition":"MONTH",
+           "dataframeLoadStrategy":"append",
+           "dataframeStorageFormat":"PARQUET",
+           "dataframeColumnInfo": [
+             {
+               "columnName":"OccupancyDateTime",
+               "columnBusinessName":"Occupancy Date Time",
+               "columnDescription": "Occupancy Date time",
+               "columnDataType": "String"
+             },{
+               "columnName":"Occupied_Spots",
+               "columnBusinessName":"Occupied Spots",
+               "columnDescription": "Occupied Spots",
+               "columnDataType": "Integer"
+             }
+           ]
+         }
+       }
+       

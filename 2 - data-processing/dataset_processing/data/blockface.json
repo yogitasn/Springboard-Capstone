@@ -1,0 +1,476 @@
+{   
+  "sources":{
+  "driverSource":{
+      "filetype":"CSV",
+      "hasHeader":"N",
+      "fields": [
+        {
+          "metadata": {},
+          "name": "objectid",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "station_id",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "segkey",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "unitid",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "unitid2",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "station_address",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "side",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "block_id",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "block_nbr",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "csm",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "parking_category",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "load",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "zone",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "total_zones",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        {
+          "metadata": {},
+          "name": "wkd_rate1",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_start1",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_end1",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_rate2",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_start2",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_end2",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_rate3",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_start3",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "wkd_end3",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+        
+        {
+          "metadata": {},
+          "name": "sat_rate1",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_start1",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_end1",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_rate2",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_start2",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_end2",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_rate3",
+          "nullable": true,
+          "type": "DoubleType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_start3",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "sat_end3",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "rpz_zone",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "rpz_area",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "paidarea",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "parking_time_limit",
+          "nullable": true,
+          "type": "IntegerType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "subarea",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "start_time_wkd",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "end_time_wkd",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "start_time_sat",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "end_time_sat",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "primarydistrictcd",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "secondarydistrictcd",
+          "nullable": true,
+          "type": "StringType()"
+        },
+
+        {
+          "metadata": {},
+          "name": "overrideyn",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "overridecomment",
+          "nullable": true,
+          "type": "StringType()"
+        },
+        {
+          "metadata": {},
+          "name": "shape_length",
+          "nullable": true,
+          "type": "DoubleType()"
+        }
+      ]
+    }
+  },
+
+  "targetDataframeDetails":{
+    "dataframeName": "Blockface",
+    "dataframeBusiness":"Details about the blockface",
+    "dataframeDescription":"Account Transaction Summary",
+    "dataframePartition":"NIGHTLY",
+    "dataframeLoadStrategy":"overwrite",
+    "dataframeStorageFormat":"PARQUET",
+    "dataframeColumnInfo": [
+      {
+        "columnName":"station_id",
+        "columnBusinessName":"Station Id",
+        "columnDescription": "A unique station id for the station",
+        "columnDataType": "Integer"
+      },{
+        "columnName":"station_address",
+        "columnBusinessName":"Station Address",
+        "columnDescription": "Station Address",
+        "columnDataType": "STRING"
+      },
+        {
+        "columnName":"side",
+        "columnBusinessName":"Side",
+        "columnDescription": "Side",
+        "columnDataType": "STRING"
+      },
+      {
+        "columnName":"block_nbr",
+        "columnBusinessName":"Block Number",
+        "columnDescription": "Block Number",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"parking_category",
+        "columnBusinessName":"Parking Category",
+        "columnDescription": "Parking Category",
+        "columnDataType": "STRING"
+      },
+      {
+        "columnName":"wkd_rate1",
+        "columnBusinessName":"Weekend Rate 1",
+        "columnDescription": "Weekend Rate 1",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"wkd_start1",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"wkd_end1",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"wkd_rate2",
+        "columnBusinessName":"Weekend Rate 2",
+        "columnDescription": "Weekend Rate 2",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"wkd_start2",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"wkd_end2",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"wkd_rate3",
+        "columnBusinessName":"Weekend Rate 3",
+        "columnDescription": "Weekend Rate 3",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"wkd_start3",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"wkd_end3",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_rate1",
+        "columnBusinessName":"Weekend Rate 1",
+        "columnDescription": "Weekend Rate 1",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"sat_start1",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_end1",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_rate2",
+        "columnBusinessName":"Weekend Rate 2",
+        "columnDescription": "Weekend Rate 2",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"sat_start2",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_end2",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_rate3",
+        "columnBusinessName":"Weekend Rate 3",
+        "columnDescription": "Weekend Rate 3",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"sat_start3",
+        "columnBusinessName":"Weekend Start Time",
+        "columnDescription": "Weekend Start Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"sat_end3",
+        "columnBusinessName":"Weekend End Time",
+        "columnDescription": "Weekend End Time",
+        "columnDataType": "INTEGER"
+      },
+      {
+        "columnName":"parking_time_limit",
+        "columnBusinessName":"Parking Time Limit",
+        "columnDescription": "Parking Time Limit",
+        "columnDataType": "DOUBLE"
+      },
+      {
+        "columnName":"subarea",
+        "columnBusinessName":"Subarea",
+        "columnDescription": "Subarea",
+        "columnDataType": "STRING"
+      }
+    ]
+  }
+}
+
+
+  

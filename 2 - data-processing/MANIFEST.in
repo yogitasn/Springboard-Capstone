@@ -1,0 +1,6 @@
+include README.md
+include dataset_processing/data/occupancy.json
+include dataset_processing/data/blockface.json
+include tests/test1.json
+include tests/test_sample.py
+include dataset_processing/setup.ini

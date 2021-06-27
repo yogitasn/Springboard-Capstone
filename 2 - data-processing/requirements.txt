@@ -1,0 +1,9 @@
+black
+databricks-connect==7.3.7
+pandas
+pyarrow
+pytest
+pytest-cov
+pytest-spark
+pytest-mock
+ipython
