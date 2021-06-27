@@ -96,4 +96,16 @@ Refer to the Readme under the orchestration folder for detailed steps and screen
 
 [Problem Definition](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
+[Expected Results](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
+[Data Model](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
+[ERD chart group](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
+[Extract](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
+[Transform](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
+[Testing](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+
+[Troubleshooting](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
