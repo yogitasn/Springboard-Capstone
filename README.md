@@ -1,5 +1,5 @@
 ## Table of contents
-* [About](#about)
+* [General Info](#general-info)
 * [Architecture](#architecture)
 * [Overview](#overview)
 * [Technologies](#technologies)
@@ -7,7 +7,7 @@
 * [References](#references)
 
 
-## About
+## General Info
 This project is Final Capstone Submission of Open-Ended project: Seattle Paid Parking Occupancy
 
 <hr/>
