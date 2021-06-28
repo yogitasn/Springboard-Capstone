@@ -1,5 +1,5 @@
 ## Table of contents
-* [General Info](#general-info)
+* [About](#about)
 * [Architecture](#architecture)
 * [Overview](#overview)
 * [Technologies](#technologies)
@@ -7,8 +7,8 @@
 * [References](#references)
 
 
-## General Info
-This project is Step 9- Deploy the Code and Process the Dataset for Open-Ended project: Seattle Paid Parking Occupancy
+## About
+This project is Final Capstone Submission of Open-Ended project: Seattle Paid Parking Occupancy
 
 <hr/>
 
