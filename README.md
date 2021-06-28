@@ -106,10 +106,8 @@ Refer to the Readme under the Monitoring Dashboard folder for detailed steps and
 
 [ERD chart group](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
 
-[Extract](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[Extract](https://github.com/yogitasn/Springboard-Capstone/wiki/Extract)
 
-[Transform](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[Transform](https://github.com/yogitasn/Springboard-Capstone/wiki/Transform)
 
 [Testing](https://github.com/yogitasn/Springboard-Capstone/wiki/Testing)
-
-[Troubleshooting](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
