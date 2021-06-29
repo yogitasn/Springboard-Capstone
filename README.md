@@ -102,9 +102,11 @@ Refer to the Readme under the Monitoring Dashboard folder for detailed steps and
 
 [Cloud Architecture](https://github.com/yogitasn/Springboard-Capstone/wiki/ETL-Cloud-Architecture)
 
-[Data Model](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[Data Model](https://github.com/yogitasn/Springboard-Capstone/wiki/Data-Model)
 
-[ERD chart group](https://github.com/yogitasn/Springboard-Capstone/wiki/Problem-Definition)
+[ERD chart group](https://github.com/yogitasn/Springboard-Capstone/wiki/ERD-Chart)
+
+[Dataset](https://github.com/yogitasn/Springboard-Capstone/wiki/Dataset)
 
 [Extract](https://github.com/yogitasn/Springboard-Capstone/wiki/Extract)
 
